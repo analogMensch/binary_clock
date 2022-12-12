@@ -8,7 +8,7 @@ BINARY CLOCK v0.13 (2022/11/23)
 - daylight saving offset in row 119
 - GMT offset in row 120
 - date type in row 121
-- dark mode auto reset atfer alarm in row 158
+- dark mode auto reset after alarm in row 158
 - color for standby (day mode) in row 127
 - color for time (day mode) in row 128
 - color for week day (day mode) in row 129
